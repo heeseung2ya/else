@@ -1,5 +1,4 @@
 # TRR_Coding_TEST
-# Macrogen Intern HanHeeSeung
 # Using Python 3.8.8
 
 from scipy.spatial import distance
