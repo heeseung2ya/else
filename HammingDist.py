@@ -42,4 +42,3 @@ for key in d_freq:
 fr.close()
 fw_dist.close()
 fw_freq.close()
-
